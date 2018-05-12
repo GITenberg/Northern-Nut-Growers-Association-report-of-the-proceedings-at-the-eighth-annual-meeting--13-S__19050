@@ -1,0 +1,29 @@
+_repo: Northern-Nut-Growers-Association-report-of-the-proceedings-at-the-eighth-annual-meeting--13-S__19050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Northern Nut Growers Association
+    alias: Association, Northern Nut Growers
+    gutenberg_agent_id: '9596'
+    url: http://www.gutenberg.org/2009/agents/9596
+description: ''
+gutenberg_bookshelf: Northern Nut Growers Association
+gutenberg_issued: '2006-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northern Nut Growers Association -- Periodicals'
+- !lcsh 'Nuts -- Periodicals'
+- !lcc 'SB'
+- !lcsh 'Nut trees -- Periodicals'
+title: "Northern Nut Growers Association, report of the proceedings at the eighth\
+  \ annual meeting\r\nStamford, Connecticut, September 5 and 6, 1917"
+url: http://www.gutenberg.org/ebooks/19050
